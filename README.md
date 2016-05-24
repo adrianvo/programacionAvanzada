@@ -1,4 +1,4 @@
 programacionAvanzada
 ====================
 
-Programacion Java
+Programacion Java para la Licenciatura en Ciencias de la Computacion
